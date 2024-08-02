@@ -36,3 +36,6 @@ img {
     flex-direction: column;
     row-gap: 17px;
 }
+.App {
+    overflow: auto;
+}
